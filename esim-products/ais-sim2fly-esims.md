@@ -275,17 +275,16 @@ _**planSlug:** sim2fly-asia-mini _
 2. Cambodia 🇰🇭
 3. Indonesia 🇮🇩
 4. Japan 🇯🇵
-5. **Jordan🇯🇴**
-6. Laos 🇱🇦
-7. Macau 🇲🇴
-8. Malaysia 🇲🇾
-9. Myanmar 🇲🇲  ⚠️ Poor Service
-10. Philippines 🇵🇭
-11. Qatar 🇶🇦
-12. South Korea 🇰🇷
-13. Sri Lanka 🇱🇰
-14. Taiwan 🇹🇼
-15. **Thailand 🇹🇭**
+5. Laos 🇱🇦
+6. Macau 🇲🇴
+7. Malaysia 🇲🇾
+8. Myanmar 🇲🇲  ⚠️ Poor Service
+9. Philippines 🇵🇭
+10. Qatar 🇶🇦
+11. South Korea 🇰🇷
+12. Sri Lanka 🇱🇰
+13. Taiwan 🇹🇼
+14. **Thailand 🇹🇭**
 
 ⚠️: Users reporting poor or no service
 
