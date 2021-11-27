@@ -97,3 +97,54 @@ When purchasing via API, you will receive a JSON eSIM payload.  This provides bo
 | qrCodeDataUrl  | QR code PNG imag                                                      |
 
 ###
+
+{% swagger baseUrl="https://app.dataplans.io/api/v1" path="/plan/{slug}" method="get" summary="Plan by Slug" %}
+{% swagger-description %}
+Fetch plan details with slug
+{% endswagger-description %}
+
+{% swagger-parameter in="path" name="slug" type="string" %}
+Sample value:
+
+_sim2fly-asia _
+
+ 
+{% endswagger-parameter %}
+
+{% swagger-response status="200" description="" %}
+```
+{
+  "id": 0,
+  "slug": "sim2fly-asia",
+  "name": "SIM2Fly Asia",
+  "period": 8,
+  "capacity": 6000,
+  "capacityUnit": "MB",
+  "retailPrice": "399.00",
+  "priceCurrency": "THB",
+  "prepaidCredit": 0,
+  "prepaidCurrency": "THB",
+  "reloadable": true,
+  "phoneNumber": true,
+  "active": true,
+  "operator": {
+    "slug": "ais",
+    "name": "AIS"
+  },
+  "region": {
+    "slug": "asia",
+    "name": "Asia"
+  },
+  "countries": [
+    {
+      "countryCode": "AU",
+      "countryName": "Australia"
+    }
+  ]
+Get}
+```
+{% endswagger-response %}
+{% endswagger %}
+
+
+
