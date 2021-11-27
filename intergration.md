@@ -8,7 +8,7 @@ Dataplans.io is an eSIM API platform and management backend.  Currently proving 
 
 ![eSIM Dashboard](.gitbook/assets/Screen\_Shot\_2021-01-18\_at\_11\_52\_36.png)
 
-## Getting Started
+## Getting Started <a href="gettingstarted" id="gettingstarted"></a>
 
 To get started:
 

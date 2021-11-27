@@ -35,7 +35,6 @@ _**planSlug:** sim2fly-global_
 | **Reloadable**         | Yes                               |
 | **Additional Data**    | Can be added                      |
 | **Status Look up API** | Yes\*                             |
-| **Retail Price**       | 899 THB                           |
 
 ### Countries of Service
 
@@ -167,11 +166,11 @@ _**planSlug:** sim2fly-global_
 
 ⚠️: Users reporting poor or no service
 
-### Pricing
+### Global Plan Pricing <a href="globalplanpricing" id="globalplanpricing"></a>
 
 **Retail Price**: 899 THB
 
-Progressive pricing is automatically applied based on the total number of Global Plan eSIMs sold monthly.&#x20;
+Progressive pricing is automatically applied as a percentage discount of the retail price based on the total number of eSIMs sold monthly. &#x20;
 
 | Monthly Purchases | Price (THB) |
 | ----------------- | ----------- |
@@ -190,17 +189,16 @@ Progressive pricing is automatically applied based on the total number of Global
 
 _**planSlug:** sim2fly-asia _
 
-| Feature                | Description                       |
-| ---------------------- | --------------------------------- |
-| **Data**               | 6GB for 8 Days. Unlimited 2G.     |
-| **Validity**           |  3months. Extendable to 12 months |
-| **Phone Number**:      | Yes. +66 Thai number              |
-| **Reloadable**         | Yes                               |
-| **Additional Data**    | Can be added                      |
-| **Status Look up API** | Yes\*                             |
-| **Retail Price**       | 399 THB                           |
+| Feature                | Description                        |
+| ---------------------- | ---------------------------------- |
+| **Data**               | 6GB for 8 Days. Unlimited 2G.      |
+| **Validity**           |  3 months. Extendable to 12 months |
+| **Phone Number**:      | Yes. +66 Thai number               |
+| **Reloadable**         | Yes                                |
+| **Additional Data**    | Can be added                       |
+| **Status Look up API** | Yes\*                              |
 
-### ****
+****
 
 ### Countries of Service
 
@@ -241,14 +239,66 @@ _**planSlug:** sim2fly-asia _
 
 ⚠️: Users reporting poor or no service
 
-### Pricing
+### Asian Plan Pricing <a href="asiaplanpricing" id="asiaplanpricing"></a>
 
-Progressive pricing is automatically applied based on the total number of Asia Plan eSIMs sold monthly.&#x20;
+Progressive pricing is automatically applied as a percentage discount of the retail price based on the total number of eSIMs sold monthly. &#x20;
+
+**Retail Price**: 399 THB
 
 | Monthly Purchases | Price (THB) |
 | ----------------- | ----------- |
 | **1-9**           | 5%          |
 | 10-49             | 10%         |
 | 50-999            | 15%         |
+| 1000+             | 20%         |
+
+## AIS SIM2Fly Asia Plan Mini
+
+### **Details**
+
+_**planSlug:** sim2fly-asia-mini _
+
+| Feature                | Description                        |
+| ---------------------- | ---------------------------------- |
+| **Data**               | 2GB for 5 Days. Unlimited 2G.      |
+| **Validity**           |  3 months. Extendable to 12 months |
+| **Phone Number**:      | Yes. +66 Thai number               |
+| **Reloadable**         | Yes                                |
+| **Additional Data**    | Can be added                       |
+| **Status Look up API** | Yes\*                              |
+
+****
+
+### Countries of Service
+
+1. Australia 🇦🇺
+2. Cambodia 🇰🇭
+3. Indonesia 🇮🇩
+4. Japan 🇯🇵
+5. **Jordan🇯🇴**
+6. Laos 🇱🇦
+7. Macau 🇲🇴
+8. Malaysia 🇲🇾
+9. Myanmar 🇲🇲  ⚠️ Poor Service
+10. Philippines 🇵🇭
+11. Qatar 🇶🇦
+12. South Korea 🇰🇷
+13. Sri Lanka 🇱🇰
+14. Taiwan 🇹🇼
+15. **Thailand 🇹🇭**
+
+⚠️: Users reporting poor or no service
+
+### Asian Plan Mini Pricing <a href="asiaplanpricing" id="asiaplanpricing"></a>
+
+Progressive pricing is automatically applied as a percentage discount of the retail price based on the total number of eSIMs sold monthly.&#x20;
+
+**Retail Price**: 199 THB
+
+| Monthly Purchases | Price (THB) |
+| ----------------- | ----------- |
+| **1-9**           | 5%          |
+| 10-199            | 10%         |
+| 200-999           | 15%         |
 | 1000+             | 20%         |
 

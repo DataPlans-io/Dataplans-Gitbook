@@ -4,6 +4,8 @@ description: Who and what is Dataplans.io?
 
 # Introduction
 
+To get started [make an account](./#get-started).  We currently sell these [3 AIS](esim-products/ais-sim2fly-esims.md) and [1 DTAC](esim-products/dtac-thailand-tourist-esim.md) eSIM plans.  See plan prices for [AIS](esim-products/ais-sim2fly-esims.md) and [DTAC](esim-products/dtac-thailand-tourist-esim.md#pricing).  Deposits can be made in USD via Card or Bank Wire Transfer.  Follow our [Twitter feed for service status updates](https://twitter.com/esimdataplans) as well as our [server status page](https://stats.uptimerobot.com/33ZNVTX2gN).
+
 ## What is DataPlans.io?
 
 Upon the release of the iPhone XR / XS, it became obvious that digital SIMs would replace physical SIM cards and that delivery of digital SIMs would be different than the physical logistics of SIM card sales.&#x20;
