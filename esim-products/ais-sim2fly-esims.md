@@ -281,10 +281,11 @@ _**planSlug:** sim2fly-asia-mini _
 8. Myanmar 🇲🇲  ⚠️ Poor Service
 9. Philippines 🇵🇭
 10. Qatar 🇶🇦
-11. South Korea 🇰🇷
-12. Sri Lanka 🇱🇰
-13. Taiwan 🇹🇼
-14. **Thailand 🇹🇭**
+11. Singapore 🇸🇬
+12. South Korea 🇰🇷
+13. Sri Lanka 🇱🇰
+14. Taiwan 🇹🇼
+15. **Thailand 🇹🇭**
 
 ⚠️: Users reporting poor or no service
 
