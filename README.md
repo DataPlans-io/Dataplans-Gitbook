@@ -4,13 +4,11 @@ description: Who and what is Dataplans.io?
 
 # Introduction
 
-To get started [make an account](./#get-started).  We currently sell these [3 AIS](esim-products/ais-sim2fly-esims.md) and [1 DTAC](esim-products/dtac-thailand-tourist-esim.md) eSIM plans.  See plan prices for [AIS](esim-products/ais-sim2fly-esims.md) and [DTAC](esim-products/dtac-thailand-tourist-esim.md#pricing).  Deposits can be made in USD via Card or Bank Wire Transfer.  Follow our [Twitter feed for service status updates](https://twitter.com/esimdataplans) as well as our [server status page](https://stats.uptimerobot.com/33ZNVTX2gN).
+To get started [**make an account**](./#get-started).  We currently sell these competitively priced [3 AIS](esim-products/ais-sim2fly-esims.md) and [1 DTAC](esim-products/dtac-thailand-tourist-esim.md) eSIM plans that range between **$2-$5 per GB in over 100 countries**.  See [**plan prices**](https://docs.google.com/spreadsheets/d/19ZINpLcWGRMvCauC3cNPboP2TFT57k7Ar1E1M4v4pZU/edit?usp=sharing) for [AIS](esim-products/ais-sim2fly-esims.md) and [DTAC](esim-products/dtac-thailand-tourist-esim.md#pricing).  Deposits can be made in USD via Card or Bank Wire Transfer in your account.  **Purchase via** **API** **or Web Application** after account approval. Follow our [Twitter feed for service status updates](https://twitter.com/esimdataplans) as well as our [server status page](https://stats.uptimerobot.com/33ZNVTX2gN).
 
 ## What is DataPlans.io?
 
-Upon the release of the iPhone XR / XS, it became obvious that digital SIMs would replace physical SIM cards and that delivery of digital SIMs would be different than the physical logistics of SIM card sales.&#x20;
-
-To serve the digital delivery of SIM cards, we created Dataplans.io as an API platform for digital SIM Card delivery giving resellers an ability to add digital SIM cards to their sales process.
+Upon the release of the iPhone XR / XS, it became obvious that digital SIMs would replace physical SIM cards.  Since delivery of digital SIMs is different than the physical logistics of SIM cards, we created Dataplans.io as an API platform for digital SIM Card delivery giving resellers an ability to add digital SIM cards to their sales process.
 
 ## What does Dataplans.io API do?
 
