@@ -12,7 +12,7 @@
 
 _**planSlug:**  tourist-sim-dtac _
 
-**Data**: 15GB for 8 Days. Unlimited 2G.
+**Data**: 15GB for 8 Days. Unlimited 3G/4G/5G.
 
 **Validity**: Up to 12 months at a time
 
