@@ -1,14 +1,18 @@
----
-description: Who and what is Dataplans.io?
----
-
 # Introduction
 
-To get started [**make an account**](https://esims.dataplans.io/signup).  We currently sell these competitively priced [3 AIS](esim-products/ais-sim2fly-esims.md) and [1 DTAC](esim-products/dtac-thailand-tourist-esim.md) eSIM plans that range between **$2-$5 per GB in over 100 countries**.  See [**plan prices**](https://docs.google.com/spreadsheets/d/19ZINpLcWGRMvCauC3cNPboP2TFT57k7Ar1E1M4v4pZU/edit?usp=sharing) for [AIS](esim-products/ais-sim2fly-esims.md) and [DTAC](esim-products/dtac-thailand-tourist-esim.md#pricing).  Deposits can be made in USD via Card or Bank Wire Transfer in your account.  **Purchase via** **API** **or Web Application** after account approval. Follow our [Twitter feed for service status updates](https://twitter.com/esimdataplans) as well as our [server status page](https://stats.uptimerobot.com/33ZNVTX2gN).
+To get started [**make an account**](https://esims.dataplans.io/signup). &#x20;
+
+See [**plan prices**](https://docs.google.com/spreadsheets/d/19ZINpLcWGRMvCauC3cNPboP2TFT57k7Ar1E1M4v4pZU/edit?usp=sharing) for [AIS](esim-products/ais-sim2fly-esims.md), [DTAC](esim-products/dtac-thailand-tourist-esim.md#pricing) and other providers. &#x20;
+
+Deposits can be made in USD via Card or Bank Wire Transfer in your account. &#x20;
+
+**Purchase via** **API** **or Web Application** after account approval.&#x20;
+
+Follow our [Twitter feed for service status updates](https://twitter.com/esimdataplans) as well as our [server status page](https://stats.uptimerobot.com/33ZNVTX2gN).
 
 ## What is DataPlans.io?
 
-Upon the release of the iPhone XR / XS, it became obvious that digital SIMs would replace physical SIM cards.  Since delivery of digital SIMs is different than the physical logistics of SIM cards, we created Dataplans.io as an API platform for digital SIM Card delivery giving resellers an ability to add digital SIM cards to their sales process.
+Dataplans is a wholesale API platform for delivering eSIM plans.
 
 ## What does Dataplans.io API do?
 
@@ -24,7 +28,7 @@ The team behind [MobileTopup.com](https://mobiletopup.com), a service providing 
 
 Dataplans.io is a wholesale eSIM sales platform, great for SIM card resellers, travel agents, travel kiosks and ATMs.&#x20;
 
-Using the live ordering requires acceptance of the [User Agreement](https://dataplans.io/user-agreement/) and additionally KYC will be requested in order to satisfy [NTBC](https://www.nbtc.go.th) requirements on SIM card sales.  As such we will require real names, copies of government issued ID of the account principle and company registration documents.
+Using the live ordering requires acceptance of the [User Agreement](https://dataplans.io/user-agreement/) and additionally KYC will be requested in order to satisfy [NTBC](https://www.nbtc.go.th/) requirements on SIM card sales.  As such we will require real names, copies of government issued ID of the account principle and company registration documents.
 
 
 
