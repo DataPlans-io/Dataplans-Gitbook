@@ -17,3 +17,49 @@ Various plans from provider 3HK are available, and most include a local Hong Kon
 | US CA UK AU NZ  w/ +852 number                    | Australia, Canada, Hong Kong, New Zealand, United Kingdom, United States                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 30                    | 20                  | 29.50                          |
 | US CA UK AU NZ w/ +852 number                     | Australia, Canada, Hong Kong, New Zealand, United Kingdom, United States                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 365                   | 35                  | 39.50                          |
 | <p>Global 3 GB<br>Global 5 GB<br>Global 13 GB</p> | <p>Afghanistan, </p><p>Albania, </p><p>Armenia, </p><p>Australia, </p><p>Austria, Bahrain</p><p>Bangladesh, </p><p>Belgium, Botswana, </p><p>Brazil, Brunei</p><p>Bulgaria, Cambodia,</p><p>Cameroon,</p><p>Canada,</p><p>China, Croatia</p><p>Cyprus,</p><p>Czech Republic</p><p>DR Congo,</p><p>Denmark,</p><p>Estonia, Finland</p><p>France, Georgia</p><p>Germany, Ghana, Greece</p><p>Guam, Hong Kong, Hungary</p><p>Iceland, Indonesia</p><p>Ireland, Israel</p><p>Italy, Japan</p><p>Kazakhstan</p><p>Kuwait, Kyrgyzstan, Laos, Latvia</p><p>Liberia, Liechtenstein, Lithuania,</p><p>Luxembourg,</p><p>Macau,</p><p>Malaysia, Malta</p><p>Mexico, Montenegro</p><p>Myanmar,</p><p>Netherlands,</p><p>New Zealand,</p><p>Nigeria, Norway, Pakistan,</p><p>Philippines,</p><p>Poland, Portugal</p><p>Puerto Rico,</p><p>Romania,</p><p>Russia, Serbia,</p><p>Singapore,</p><p>Slovakia,</p><p>South Africa,</p><p>South Korea,</p><p>Spain, Sri Lanka</p><p>Sweden, Switzerland,</p><p>Taiwan,</p><p>Tajikistan,</p><p>Tanzania,</p><p>Thailand, Turkey</p><p>Uganda, Ukraine, United Arab Emirates,</p><p>United Kingdom,</p><p>United States,</p><p>United States,  Virgin Islands,</p><p>Uzbekistan,</p><p>Vietnam,</p> | <p>30<br>30<br>30</p> | <p>3<br>5<br>13</p> | <p>20.50<br>29.50<br>39.50</p> |
+
+## US CA UK AU NZ HK Plans
+
+
+
+* This is a 3 Hong Kong prepaid eSIM and comes with Hong Kong (+852) phone number. It can be topped up with various local and travel packages via Mobimatter website and app.
+* The starting package includes 30GB of General data, plus 5GB of Social data usable for WhatsApp, Instagram, Facebook, Line and WeChat apps. If Social data balance is exhausted these apps will continue to work using the General data allowance.
+* No other activation or registration steps needed.
+* Package validity will start immediately upon purchase.
+* Full data speeds - no daily limits, no throttling. Mobile hotspot is supported.
+* Connects to T-Mobile in USA, Rogers in Canada, 3 in UK, and Vodafone networks in Australia and New Zealand with 4G LTE speeds.
+
+### 1 Year US CA UK AU NZ HK Plan
+
+_**planSlug:** _ `mobimatter=3hk-51e0a0dc=8f4d=4731=b3d7=a58e5f51debe-365-days-35-gb`
+
+| Feature                | Description          |
+| ---------------------- | -------------------- |
+| **Data**               | 35GB for 365 Days.   |
+| **Validity**           |  Starts on purchase  |
+| **Phone Number**:      | Yes. +852 HK number  |
+| **Reloadable**         | Yes                  |
+| **Additional Data**    | Can be added         |
+| **Status Look up API** | No                   |
+
+### &#x20;30 Day US CA UK AU NZ HK Plan
+
+_**planSlug:** _ mobimatter=3hk-11d8e3ca=f9ff=44a9=8005=0559cd5e2c54-30-days-20-gb
+
+| Feature                | Description         |
+| ---------------------- | ------------------- |
+| **Data**               | 20GB for 30 Days.   |
+| **Validity**           |  Starts on purchase |
+| **Phone Number**:      | Yes. +852 HK number |
+| **Reloadable**         | Yes                 |
+| **Additional Data**    | Can be added        |
+| **Status Look up API** | No                  |
+
+
+
+
+
+
+
+
+
