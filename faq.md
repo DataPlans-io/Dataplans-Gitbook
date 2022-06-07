@@ -30,7 +30,7 @@ For credit deposits into the platform we accept several methods.  The platform c
 
 ### Credit Cards
 
-You can pay with a credit or debit card.  We use [Stripe](https://stripe.com) with USD charging, and give you the equivalent platform credit. Any processing fees are excluded from the deposit amount.   You can choose a **One Time Payment** or save and add your card for **Auto Recharge** upon low balance.&#x20;
+You can pay with a credit or debit card.  We use [Stripe](https://stripe.com/) with USD charging, and give you the equivalent platform credit. Any processing fees are excluded from the deposit amount.   You can choose a **One Time Payment** or save and add your card for **Auto Recharge** upon low balance.&#x20;
 
 We recommend an amount of 1000 Baht for each time the balance falls below 500 Baht.
 

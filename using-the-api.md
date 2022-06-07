@@ -106,7 +106,7 @@ Fetch plan details with slug
 {% swagger-parameter in="path" name="slug" type="string" %}
 Sample value:
 
-_sim2fly-asia _
+_sim2fly-asia_
 
  
 {% endswagger-parameter %}

@@ -6,7 +6,7 @@ description: About the the AIS eSiM Products.
 
 ## AIS - Thailand Carrier
 
-Thailand's largest carrier. &#x20;
+Thailand's largest carrier.
 
 ### Call Center
 
@@ -16,25 +16,25 @@ Thailand's largest carrier. &#x20;
 
 ### Useful AIS USSD codes
 
-| Code             | Action                                     |
-| ---------------- | ------------------------------------------ |
-| **119\*2#**📞    | Change the AIS SIM2Fly language to English |
-| **\*121# **📞    | Check credit balance and expiry date       |
-| **\*111\*6# **📞 | Check remaining data balance               |
-| **\*545#** 📞    | Check your phone number                    |
+| Code                 | Action                                     |
+| -------------------- | ------------------------------------------ |
+| \*\*119\*2#\*\*📞    | Change the AIS SIM2Fly language to English |
+| \*\*\*121# \*\*📞    | Check credit balance and expiry date       |
+| \*\*\*111\*6# \*\*📞 | Check remaining data balance               |
+| **\*545#** 📞        | Check your phone number                    |
 
 ## **AIS SIM2fly Global Plan**
 
 _**planSlug:** sim2fly-global_
 
-| Feature                | Description                       |
-| ---------------------- | --------------------------------- |
-| **Data**               | 6GB for 15 Days. Unlimited 2G.    |
-| **Validity**           |  3months. Extendable to 12 months |
-| **Phone Number**:      | Yes. +66 Thai number              |
-| **Reloadable**         | Yes                               |
-| **Additional Data**    | Can be added                      |
-| **Status Look up API** | Yes\*                             |
+| Feature                | Description                      |
+| ---------------------- | -------------------------------- |
+| **Data**               | 6GB for 15 Days. Unlimited 2G.   |
+| **Validity**           | 3months. Extendable to 12 months |
+| **Phone Number**:      | Yes. +66 Thai number             |
+| **Reloadable**         | Yes                              |
+| **Additional Data**    | Can be added                     |
+| **Status Look up API** | Yes\*                            |
 
 ### Countries of Service
 
@@ -46,7 +46,7 @@ _**planSlug:** sim2fly-global_
 6. Austria
 7. Azerbaijan
 8. Bahrain **NEW!**
-9. Bangladesh  ⚠️
+9. Bangladesh  ⚠️
 10. Belgium
 11. Belarus
 12. Brazil **NEW!**
@@ -123,7 +123,7 @@ _**planSlug:** sim2fly-global_
 83. Oman
 84. Papua New Guinea
 85. Paraguay
-86. Pakistan  ⚠️ &#x20;
+86. Pakistan ⚠️
 87. Panama **NEW!**
 88. Peru
 89. Philippines
@@ -131,7 +131,7 @@ _**planSlug:** sim2fly-global_
 91. Portugal
 92. Puerto Rico
 93. Qatar
-94. Reunion **NEW! **⚠️ &#x20;
+94. Reunion \*\*NEW! \*\*⚠️
 95. Romania
 96. Russia
 97. SanMarino
@@ -166,11 +166,11 @@ _**planSlug:** sim2fly-global_
 
 ⚠️: Users reporting poor or no service
 
-### Global Plan Pricing <a href="globalplanpricing" id="globalplanpricing"></a>
+### Global Plan Pricing <a href="#globalplanpricing" id="globalplanpricing"></a>
 
 **Retail Price**: 899 THB
 
-Progressive pricing is automatically applied as a percentage discount of the retail price based on the total number of eSIMs sold monthly. &#x20;
+Progressive pricing is automatically applied as a percentage discount of the retail price based on the total number of eSIMs sold monthly.
 
 | Monthly Purchases | Price (THB) |
 | ----------------- | ----------- |
@@ -179,26 +179,22 @@ Progressive pricing is automatically applied as a percentage discount of the ret
 | 50-999            | 7%          |
 | 1000+             | 8.9%        |
 
-
-
-
-
 ## AIS SIM2Fly Asia Plan
 
 ### **Details**
 
-_**planSlug:** sim2fly-asia _
+\_**planSlug:** sim2fly-asia \_
 
-| Feature                | Description                        |
-| ---------------------- | ---------------------------------- |
-| **Data**               | 6GB for 8 Days. Unlimited 2G.      |
-| **Validity**           |  3 months. Extendable to 12 months |
-| **Phone Number**:      | Yes. +66 Thai number               |
-| **Reloadable**         | Yes                                |
-| **Additional Data**    | Can be added                       |
-| **Status Look up API** | Yes\*                              |
+| Feature                | Description                       |
+| ---------------------- | --------------------------------- |
+| **Data**               | 6GB for 8 Days. Unlimited 2G.     |
+| **Validity**           | 3 months. Extendable to 12 months |
+| **Phone Number**:      | Yes. +66 Thai number              |
+| **Reloadable**         | Yes                               |
+| **Additional Data**    | Can be added                      |
+| **Status Look up API** | Yes\*                             |
 
-****
+***
 
 ### Countries of Service
 
@@ -208,7 +204,7 @@ _**planSlug:** sim2fly-asia _
 4. Brunei 🇧🇳
 5. Cambodia 🇰🇭
 6. China 🇨🇳
-7. **Georgia🇬🇪 **
+7. \*\*Georgia🇬🇪 \*\*
 8. **Guam 🇬🇺**
 9. Hong Kong 🇭🇰
 10. India 🇮🇳
@@ -221,11 +217,11 @@ _**planSlug:** sim2fly-asia _
 17. Laos 🇱🇦
 18. Macau 🇲🇴
 19. Malaysia 🇲🇾
-20. **Mongolia 🇲🇳 **
-21. Myanmar 🇲🇲  ⚠️ Poor Service
+20. \*\*Mongolia 🇲🇳 \*\*
+21. Myanmar 🇲🇲 ⚠️ Poor Service
 22. Nepal 🇳🇵
 23. **Oman 🇴🇲**
-24. Pakistan 🇵🇰 ⚠️ Poor Service&#x20;
+24. Pakistan 🇵🇰 ⚠️ Poor Service
 25. Philippines 🇵🇭
 26. Qatar 🇶🇦
 27. Singapore 🇸🇬
@@ -233,15 +229,15 @@ _**planSlug:** sim2fly-asia _
 29. Sri Lanka 🇱🇰
 30. Taiwan 🇹🇼
 31. Tibet ༃
-32. Uzbekistan  🇺🇿
+32. Uzbekistan 🇺🇿
 33. Vietnam 🇻🇳
 34. **Thailand 🇹🇭**
 
 ⚠️: Users reporting poor or no service
 
-### Asian Plan Pricing <a href="asiaplanpricing" id="asiaplanpricing"></a>
+### Asian Plan Pricing <a href="#asiaplanpricing" id="asiaplanpricing"></a>
 
-Progressive pricing is automatically applied as a percentage discount of the retail price based on the total number of eSIMs sold monthly. &#x20;
+Progressive pricing is automatically applied as a percentage discount of the retail price based on the total number of eSIMs sold monthly.
 
 **Retail Price**: 399 THB
 
@@ -256,18 +252,18 @@ Progressive pricing is automatically applied as a percentage discount of the ret
 
 ### **Details**
 
-_**planSlug:** sim2fly-asia-mini _
+\_**planSlug:** sim2fly-asia-mini \_
 
-| Feature                | Description                        |
-| ---------------------- | ---------------------------------- |
-| **Data**               | 2GB for 5 Days. Unlimited 2G.      |
-| **Validity**           |  3 months. Extendable to 12 months |
-| **Phone Number**:      | Yes. +66 Thai number               |
-| **Reloadable**         | Yes                                |
-| **Additional Data**    | Can be added                       |
-| **Status Look up API** | Yes\*                              |
+| Feature                | Description                       |
+| ---------------------- | --------------------------------- |
+| **Data**               | 2GB for 5 Days. Unlimited 2G.     |
+| **Validity**           | 3 months. Extendable to 12 months |
+| **Phone Number**:      | Yes. +66 Thai number              |
+| **Reloadable**         | Yes                               |
+| **Additional Data**    | Can be added                      |
+| **Status Look up API** | Yes\*                             |
 
-****
+***
 
 ### Countries of Service
 
@@ -278,7 +274,7 @@ _**planSlug:** sim2fly-asia-mini _
 5. Laos 🇱🇦
 6. Macau 🇲🇴
 7. Malaysia 🇲🇾
-8. Myanmar 🇲🇲  ⚠️ Poor Service
+8. Myanmar 🇲🇲 ⚠️ Poor Service
 9. Philippines 🇵🇭
 10. Qatar 🇶🇦
 11. Singapore 🇸🇬
@@ -289,9 +285,9 @@ _**planSlug:** sim2fly-asia-mini _
 
 ⚠️: Users reporting poor or no service
 
-### Asian Plan Mini Pricing <a href="asiaplanpricing" id="asiaplanpricing"></a>
+### Asian Plan Mini Pricing <a href="#asiaplanpricing" id="asiaplanpricing"></a>
 
-Progressive pricing is automatically applied as a percentage discount of the retail price based on the total number of eSIMs sold monthly.&#x20;
+Progressive pricing is automatically applied as a percentage discount of the retail price based on the total number of eSIMs sold monthly.
 
 **Retail Price**: 199 THB
 
@@ -301,4 +297,3 @@ Progressive pricing is automatically applied as a percentage discount of the ret
 | 10-199            | 10%         |
 | 200-999           | 15%         |
 | 1000+             | 20%         |
-
