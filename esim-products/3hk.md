@@ -44,7 +44,7 @@ _**planSlug:** _ `mobimatter=3hk-51e0a0dc=8f4d=4731=b3d7=a58e5f51debe-365-days-3
 
 ### &#x20;30 Day US CA UK AU NZ HK Plan
 
-_**planSlug:** _ mobimatter=3hk-11d8e3ca=f9ff=44a9=8005=0559cd5e2c54-30-days-20-gb
+_**planSlug:** _ `mobimatter=3hk-11d8e3ca=f9ff=44a9=8005=0559cd5e2c54-30-days-20-gb`
 
 | Feature                | Description         |
 | ---------------------- | ------------------- |
