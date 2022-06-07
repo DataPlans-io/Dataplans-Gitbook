@@ -2,7 +2,7 @@
 
 To get started [**make an account**](https://esims.dataplans.io/signup). &#x20;
 
-See [**plan prices**](https://docs.google.com/spreadsheets/d/19ZINpLcWGRMvCauC3cNPboP2TFT57k7Ar1E1M4v4pZU/edit?usp=sharing) for [AIS](esim-products/ais-sim2fly-esims.md), [DTAC](esim-products/dtac-thailand-tourist-esim.md#pricing) and other providers. &#x20;
+See [**plan prices**](https://docs.google.com/spreadsheets/d/19ZINpLcWGRMvCauC3cNPboP2TFT57k7Ar1E1M4v4pZU/edit?usp=sharing) for [AIS](esim-products/ais-sim2fly-esims.md), [DTAC](esim-products/dtac-thailand-tourist-esim.md#pricing), [3HK](esim-products/3hk.md) and other providers. &#x20;
 
 Deposits can be made in USD via Card or Bank Wire Transfer in your account. &#x20;
 
