@@ -10,6 +10,8 @@
 * [DTAC Thailand Tourist eSIM](esim-products/dtac-thailand-tourist-esim.md)
 * [AIS SIM2Fly eSIMs](esim-products/ais-sim2fly-esims.md)
 * [3HK](esim-products/3hk.md)
+* [Ubigi](esim-products/ubigi.md)
+* [GlobaleSIM](esim-products/globalesim.md)
 
 ***
 
