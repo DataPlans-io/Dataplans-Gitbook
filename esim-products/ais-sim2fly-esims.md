@@ -1,5 +1,7 @@
 ---
 description: About the the AIS eSiM Products.
+cover: ../.gitbook/assets/ais.png
+coverY: 0
 ---
 
 # AIS SIM2Fly eSIMs

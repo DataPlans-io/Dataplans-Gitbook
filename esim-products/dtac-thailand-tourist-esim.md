@@ -1,16 +1,21 @@
+---
+cover: ../.gitbook/assets/dtac.png
+coverY: 0
+---
+
 # DTAC Thailand Tourist eSIM
 
 ## Useful DTAC USSD codes
 
-| Code                | Action                               |
-| ------------------- | ------------------------------------ |
-| **\*101\*9# **📞    | Check credit balance and expiry date |
-| **\*101\*4\*9# **📞 | Check remaining data balance         |
-| **\*102\*9#** 📞    | Check your phone number              |
+| Code                    | Action                               |
+| ----------------------- | ------------------------------------ |
+| \*\*\*101\*9# \*\*📞    | Check credit balance and expiry date |
+| \*\*\*101\*4\*9# \*\*📞 | Check remaining data balance         |
+| **\*102\*9#** 📞        | Check your phone number              |
 
 ## **DTAC Tourist eSIM**
 
-_**planSlug:**  tourist-sim-dtac _
+\_**planSlug:** tourist-sim-dtac \_
 
 **Data**: 15GB for 8 Days. Unlimited 3G/4G/5G.
 
@@ -28,11 +33,9 @@ _**planSlug:**  tourist-sim-dtac _
 
 1. Thailand
 
-
-
 ### Pricing
 
-Progressive pricing is automatically applied based on the total number of DTAC eSIMs sold monthly.&#x20;
+Progressive pricing is automatically applied based on the total number of DTAC eSIMs sold monthly.
 
 **Retail Price**: 299 THB
 
@@ -43,4 +46,3 @@ Progressive pricing is automatically applied based on the total number of DTAC e
 | 100-999           | 30%         |
 | 1000-2999         | 40%         |
 | 3000+             | 45%         |
-

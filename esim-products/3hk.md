@@ -1,6 +1,6 @@
 ---
 description: eSIM plans from 3 Hong Kong Provider
-cover: ../.gitbook/assets/Screen Shot 2022-06-07 at 14.52.52.png
+cover: ../.gitbook/assets/3hk.png
 coverY: 0
 ---
 
