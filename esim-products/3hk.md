@@ -6,6 +6,18 @@ coverY: 0
 
 # 3HK
 
+### 3 Hong Kong
+
+Hong Kong carrier founded in operating in Hong Kong by [Hutchison Telecommunications Hong Kong Holdings](https://en.wikipedia.org/wiki/Hutchison\_Telecommunications\_Hong\_Kong\_Holdings), a subsidiary of [CK Hutchison](https://en.wikipedia.org/wiki/CK\_Hutchison\_Holdings), operating under the global [Three](https://en.wikipedia.org/wiki/3\_\(telecommunications\)) brand. 3 Hong Kong is the first _Three-_branded company. &#x20;
+
+**Contact**
+
+* [three.com.hk](https://www.three.com.hk/)
+* [cs.mobile@three.com.hk](mailto:%20cs.mobile@three.com.hk)
+* [Call Center](https://www.three.com.hk/3Care/eng/contactus/Contactus.jsp?lang=eng)
+
+### Plans
+
 Various plans from provider 3HK are available, and most include a local Hong Kong (+852) phone number.&#x20;
 
 | Plan Name                                         | Countries                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Days                   | GBs                 | Retail Price                   |
