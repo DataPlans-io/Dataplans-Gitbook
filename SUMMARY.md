@@ -15,5 +15,6 @@
 
 ***
 
+* [Plugins](plugins.md)
 * [eSIM Dashboard](https://esims.dataplans.io)
 * [@esimdataplans](https://twitter.com/esimdataplans)
