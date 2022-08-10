@@ -7,11 +7,11 @@ coverY: 0
 
 ## Useful DTAC USSD codes
 
-| Code                    | Action                               |
-| ----------------------- | ------------------------------------ |
-| \*\*\*101\*9# \*\*📞    | Check credit balance and expiry date |
-| \*\*\*101\*4\*9# \*\*📞 | Check remaining data balance         |
-| **\*102\*9#** 📞        | Check your phone number              |
+| Code                | Action                               |
+| ------------------- | ------------------------------------ |
+| **\*101\*9#** 📞    | Check credit balance and expiry date |
+| **\*101\*4\*9#** 📞 | Check remaining data balance         |
+| **\*102\*9#** 📞    | Check your phone number              |
 
 ## **DTAC Tourist eSIM**
 
