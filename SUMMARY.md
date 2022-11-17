@@ -19,3 +19,4 @@
 * [eSIM Dashboard](https://esims.dataplans.io)
 * [@esimdataplans](https://twitter.com/esimdataplans)
 * [DataPlans.io User Agreement](dataplans.io-user-agreement.md)
+* [Privacy Policy](privacy-policy.md)
