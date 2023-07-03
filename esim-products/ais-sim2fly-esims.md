@@ -20,9 +20,9 @@ Thailand's largest carrier.
 
 | Code                 | Action                                     |
 | -------------------- | ------------------------------------------ |
-| \*\*119\*2#\*\*📞    | Change the AIS SIM2Fly language to English |
-| \*\*\*121# \*\*📞    | Check credit balance and expiry date       |
-| \*\*\*111\*6# \*\*📞 | Check remaining data balance               |
+| **\*119\*2#** 📞     | Change the AIS SIM2Fly language to English |
+| **\*121#** 📞        | Check credit balance and expiry date       |
+| **\*111\*6#** 📞     | Check remaining data balance               |
 | **\*545#** 📞        | Check your phone number                    |
 
 ## **AIS SIM2fly Global Plan**
